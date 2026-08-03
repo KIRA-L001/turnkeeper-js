@@ -70,3 +70,4 @@ forms for bugs, documentation improvements, and feature proposals.
 
 Keep Turnkeeper credentials server-side. Replay accepts metadata only, and a model-generated tool
 call is a proposal—not authorization to execute a real-world action. See [SECURITY.md](SECURITY.md).
+# study note
